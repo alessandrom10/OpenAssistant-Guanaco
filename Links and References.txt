@@ -1,0 +1,22 @@
+transfer learing vs paremeter efficient fine tuining (PEFT)
+LORA - low rank adaption - fine tunes model by adding new trainable parameters
+https://www.youtube.com/playlist?list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0
+QLoRa - reduces resources requirements - quantization, page optimization, LORA
+RAG - responese - before giving input to the model we extarct knowleadege from pappers and concanate it to original input and give it to the model
+Transformers library
+
+QLora - how does it work
+https://medium.com/@lukemoningtonAI/fine-tuning-llms-in-4-bit-with-qlora-2982cddcd459
+https://huggingface.co/blog/4bit-transformers-bitsandbytes
+https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing (huggingface notebook - how to train)
+
+Example of fine tuning Falcon 7B on Guanaco dataset
+https://colab.research.google.com/drive/1BiQiw31DT7-cDp1-0ySXvvhzqomTdI-o?usp=sharing
+https://colab.research.google.com/drive/12-NYRzJr9WrNkFZhQbHKL9VOOtWd2yxN?usp=sharing#scrollTo=hrNxx33K0H9p (Another one)
+
+
+How to evaulate models, metrics
+https://medium.com/data-science-at-microsoft/evaluating-llm-systems-metrics-challenges-and-best-practices-664ac25be7e5 (evaluation benchmarks)
+https://huggingface.co/blog/zero-shot-eval-on-the-hub (Hugging face evaulation)
+https://huggingface.co/docs/datasets/en/metrics
+https://huggingface.co/datasets/nyu-mll/glue (dataset example)
