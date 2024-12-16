@@ -1,6 +1,6 @@
 # Project Description
 
-This repository contains the project work for the "Natural Language Processing" (NLP) course. The main objective of this project was to fine-tune a Large Language Model (LLM) into a chatbot using the OpenAssistant-Guanaco dataset.
+This repository contains an in-depth analysis and experimentation with NLP models, including data analysis, fine-tuning of state-of-the-art models on OpenAssistant-Guanaco dataset, and the development of a Gradio application for interactive demonstrations.
 
 ## Team Members
 
